@@ -1,0 +1,13 @@
+{
+  "name": "a4e.credissimo.tests",
+  "version": "1.0.0",
+  "description": "Stress tests for service_app",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "requestify": "^0.2.5"
+  },
+  "license": "MIT"
+}

@@ -1,6 +1,6 @@
 const FS = require('fs')
 const REQUESTIFY = require('requestify')
-const PATH_TO_DATA_FILE = './src/generateData/result-short.txt'
+const PATH_TO_DATA_FILE = './src/generateData/result.txt'
 // const URL_ADDRESS = 'https://local.a4everyone.com/api/app-mgmt/v1.0/runApp/'
 // const AUTH_TOKEN = 'eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwYXR1ZiIsImV4cCI6MTU0NTI5MjE4NiwiaWF0IjoxNTEzNzU2MTg2LCJ0eXAiOiJqd3QifQ.LGmROE0uQj85sY4VfAQcl7Ji7mssvX6c9HR59A9Fd34LGP2unIxytnAiSPTQy79qGs2b8UqfLTe2uAUz_eSTq9c7DBwpNjjV2y8GBsVcR-fWxtohh3TbaDcKeVf8E4RcHU6vMdPyhnqtcEVK1-LVBHDZ5vOGBDhf4bYOIl9myuxHzXI7MVKeWf5YQcHdRdb2eK0h8O8TD32iAFoWPADmSpCjTeQQbw4joGUm68888mVtBmMojK0PUGmompuXnusKvxWEaE9s6uNroNFBkLdVR7mxEmfcZB6cuvppQUqyfIpnITQ8TOJCodjOotFdcRQ6KMMHgno30Mcf5qDehn0_sVHBVhwfyrhFHumkEbfdUH8Y1Bh_jgnKLcMF6BdOMY6joNGPdm1zuRIUHJ0T45JZ0FpAZ-jOrk8XI7DRLF40xX9DoVLjw9PMyM70ZfwiwJyJSjmvkPxeDjHc-HWuOpmI5ig5UpeRUUacrLtgp9-s39MGT3pJLP4gmY5mfngQWc_45yu762TqobjksNJSsk7Aorarc6b3golRXtdwHYgaNzn-RLQaP5OrGN9DJDDBJnRtjmHbde-3Rm0BP0vzh1c3U6lqvMAgkafKH7QSQo_DVF7M85rITEJ20pShDq53Uk7bg_wza2yTn43NBDrzu0tJ-kijrnGHZeqAwuTrJuiUyPQ'
 const URL_ADDRESS = 'https://stagecred.a4everyone.com/api/app-mgmt/v1.0/runApp/'

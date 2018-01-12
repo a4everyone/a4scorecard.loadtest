@@ -1,5 +1,5 @@
 const FS = require('fs')
-const PATH_TO_SCORECARD = '/home/nikola/a4e/a4e.credissimo.tests/src/scoreCardValues/scoringCard.csv'
+const PATH_TO_SCORECARD = '/home/nikola/a4e/a4scorecard.loadtest/src/scoreCardValues/scoringCard.csv'
 
 let result = []
 
